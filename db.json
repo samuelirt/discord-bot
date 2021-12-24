@@ -1,0 +1,11 @@
+{
+  "subscriptions": [
+    {
+      "id": "i2ealf",
+      "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=79&price_to=15&currency=EUR",
+      "channelID": "923753370626441276"
+    }
+  ],
+  "is_first_sync": false,
+  "last_item_ts_i2ealf": 1640355063000
+}
